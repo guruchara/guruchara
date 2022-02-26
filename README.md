@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Gurucharan Chouhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, -->
 
+<h2 align="center">Hi ,<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I'm Gurucharan Chouhan</h2>
+<h3 align="center">I am Software Engineer Student from India</h3>
+<!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2> -->
+<h2 align="center"><img src="https://github.com/guruchara/World-Cup-WebScrapping/blob/main/picss.gif"></h2>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruchara&label=Profile%20views&color=0e75b6&style=flat" alt="guruchara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruchara" alt="guruchara" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/gurucharanraj12" target="blank"><img src="https://img.shields.io/twitter/follow/gurucharanraj12?logo=twitter&style=for-the-badge" alt="gurucharanraj12" /></a> </p>
 
