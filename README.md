@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, -->
+<!-- <h1 align="center">Hi 👋, --
 
 <h2 align="center">Hi ,<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I'm Gurucharan Chouhan</h2>
 <h3 align="center">I am Software Engineer Student from India</h3>
