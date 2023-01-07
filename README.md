@@ -10,7 +10,7 @@
 🌱 **About myself**<br>
 
 
-- 🌱 I’m currently learning **Flutter**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/guruchara](https://github.com/guruchara)
 
