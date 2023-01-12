@@ -34,17 +34,8 @@
 
 <!-- STATISTICS ABOUT PROFILE -->
 
- 📶 Stats:<br><br>
- 
- 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruchara&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
  
 <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/gurucharanchouhan7@gmail.com/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
