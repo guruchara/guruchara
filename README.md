@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gurucharan Chouhan</h1>
 
+<img align="right" alt="Coding" width="1000" src="https://github.com/guruchara/Backend_codes_Guru/blob/master/gururajput.png">
+<hr></hr>
+
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=guruchara&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
