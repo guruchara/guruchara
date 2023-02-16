@@ -10,7 +10,7 @@
 <hr></hr>
 <p><img align="right" src="https://github.com/guruchara/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Django 
 - 📫 How to reach me **gurucharanchouhan7@gmail.com**
 <hr></hr>
 <h3 align="left">Connect with me:</h3>
