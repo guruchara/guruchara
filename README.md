@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-<!--   <img src="https://github.com/guruchara/Backend_codes_Guru/blob/master/gururajput.png" alt="Coding" width="800" />
+  <img src="https://github.com/guruchara/Backend_codes_Guru/blob/master/gururajput.png" alt="Coding" width="800" />
     <a href="https://ibb.co/bjzZRW1P"><img width="800" src="https://i.ibb.co/j9g2Z6hT/DALL-E-2025-02-09-18-11-07-A-highly-aesthetic-Git-Hub-profile-banner-for-Gurucharan-Chouhan-The-desi.webp" alt="DALL-E-2025-02-09-18-11-07-A-highly-aesthetic-Git-Hub-profile-banner-for-Gurucharan-Chouhan-The-desi" border="0"></a>
-    -->
+   
 <!--   <a href="https://ibb.co/1Y4fzFnH"><img width="800"  src="https://i.ibb.co/p6kvhYPC/DALL-E-2025-02-09-18-01-46-A-highly-trending-and-visually-stunning-Git-Hub-profile-banner-featuring.webp" alt="DALL-E-2025-02-09-18-01-46-A-highly-trending-and-visually-stunning-Git-Hub-profile-banner-featuring" border="0"></a> -->
-  <a href="https://ibb.co/gZvNGy3c"><img src="https://i.ibb.co/1Gs13ZL4/DALL-E-2025-02-09-18-21-14-An-ultra-modern-and-visually-stunning-Git-Hub-profile-banner-for-Guruchar.webp"  width="800" alt="DALL-E-2025-02-09-18-21-14-An-ultra-modern-and-visually-stunning-Git-Hub-profile-banner-for-Guruchar" border="0"></a>
-
+<!--   <a href="https://ibb.co/gZvNGy3c"><img src="https://i.ibb.co/1Gs13ZL4/DALL-E-2025-02-09-18-21-14-An-ultra-modern-and-visually-stunning-Git-Hub-profile-banner-for-Guruchar.webp"  width="800" alt="DALL-E-2025-02-09-18-21-14-An-ultra-modern-and-visually-stunning-Git-Hub-profile-banner-for-Guruchar" border="0"></a>
+ -->
   
 </p>
 
