@@ -1,15 +1,14 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
-  Hi there, I'm Gurucharan Chouhan
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=300&section=header&text=Gurucharan%20Chouhan&fontSize=60&fontAlignY=35&desc=Frontend%20Engineer%20with%202.5%20Years%20Experience&descSize=22&descAlignY=55&animation=twinkling" width="100%" alt="Banner" />
+</div>
+
+<br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DE7&center=true&vCenter=true&random=false&width=535&lines=Passionate+Frontend+Developer;+%7CReact+%7C+JavaScript+%7C+TypeScript+Enthusiast;AI+Integration+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E5DE7&center=true&vCenter=true&random=false&width=535&lines=Developer+%7C+Learner+%7CProduct+Developer;+%7CReact+%7C+JavaScript+%7C+TypeScript+Enthusiast;AI+Integration+Explorer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/guruchara/Backend_codes_Guru/blob/master/gururajput.png" alt="Coding Banner" width="70%" />
-</p>
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guruchara&style=for-the-badge&color=6E5DE7" alt="Profile Views" />
@@ -18,20 +17,34 @@
   </a>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<br />
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+  About Me
+</h2>
+
+<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30px" height="30px">
-  Frontend Developer from India crafting engaging user experiences
-  <br>
+  Frontend Engineer with 2.5 years of experience in building responsive web applications
+  <br /><br />
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="18px" height="18px">
-  Exploring AI Models integration in personal projects
-  <br>
+  Currently exploring AI Models integration in personal projects
+  <br /><br />
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/like.gif" width="20px" height="20px">
   I code with music 🎧
 </p>
 
-<h2 align="center">📞 Contact Me</h2>
+<br />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="40">
+  Connect With Me
+</h2>
+
+<br />
 
 <p align="center">
   <a href="mailto:gurucharanchouhan7@gmail.com">
@@ -51,7 +64,14 @@
   </a>
 </p>
 
-<h2 align="center">💬 Ask me about</h2>
+<br />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30" height="30">
+  Ask Me About
+</h2>
+
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -61,65 +81,103 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
-<h2 align="center">⚒️ Languages and Tools</h2>
+<br />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+  Languages and Tools
+</h2>
+
+<br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,graphql,nodejs,html,css,bootstrap,java,mysql,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,graphql,nodejs,html,css,bootstrap,java,python,mysql,git,vscode&perline=7" />
 </p>
 
+<br />
+
 <details>
-  <summary align="center"><h2>📊 GitHub Stats</h2></summary>
+  <summary align="center">
+    <h2>📊 GitHub Stats</h2>
+  </summary>
+  <br />
   <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guruchara&theme=tokyonight" />
+    <br /><br />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guruchara&theme=tokyonight" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guruchara&theme=tokyonight" />
+    <br /><br />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guruchara&theme=tokyonight" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guruchara&theme=tokyonight&utcOffset=8" />
   </div>
 </details>
 
+<br />
+
 <h2 align="center">📈 Activity Graph</h2>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guruchara&theme=react-dark&hide_border=true&bg_color=0D1117&line=6E5DE7&point=FFFFFF" alt="Activity Graph" width="100%" />
 </p>
 
+<br />
+
 <h2 align="center">🏆 GitHub Trophies</h2>
+
+<br />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guruchara&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
 </p>
 
+<br />
+
 <h2 align="center">⚡ Recent GitHub Activity</h2>
+
+<br />
 
 <!--START_SECTION:activity-->
 <!-- This section will be updated by a GitHub Action workflow -->
 <!--END_SECTION:activity-->
 
+<br />
+
 <h2 align="center">🎧 Currently Listening To</h2>
+
+<br />
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvt34ksxmmyqnojapvdlthults&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" alt="Spotify" />
 </p>
 
+<br />
+
 <h2 align="center">📌 Pinned Repositories</h2>
 
+<br />
+
 <p align="center">
-  <a href="https://github.com/guruchara/YourRepoName1">
+  <a href="https://github.com/guruchara/Backend_codes_Guru">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guruchara&repo=Backend_codes_Guru&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
   </a>
 </p>
 
-<hr>
+<br />
 
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
-</p>
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
-</p>
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+</div>
