@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DE7&center=true&vCenter=true&random=false&width=535&lines=Passionate+Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript+Enthusiast;AI+Integration+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DE7&center=true&vCenter=true&random=false&width=535&lines=Passionate+Frontend+Developer;+%7CReact+%7C+JavaScript+%7C+TypeScript+Enthusiast;AI+Integration+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 <h2 align="center">⚒️ Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,graphql,nodejs,html,css,bootstrap,java,python,mysql,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,graphql,nodejs,html,css,bootstrap,java,mysql,git,vscode&perline=7" />
 </p>
 
 <details>
